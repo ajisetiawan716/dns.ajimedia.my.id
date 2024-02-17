@@ -13,7 +13,7 @@
         font-family: Arial, sans-serif;
     }
     .link {
-        color: #4d9c5b;
+        color: #03a9f4;
         text-decoration: none;
     }
     .link:hover {
@@ -39,7 +39,7 @@
         transition: 0.3s ease background-color;
     }
     .button--green:hover {
-        background-color: #58a273;
+        background-color: #3f51b5;
     }
     .button--white {
         background-color: #fff;
